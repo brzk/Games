@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - destination
+  - block
+  - ring
+  - openstar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - stash
+  - marble
+  - GamePlay
+  - Canvas
+  - Tutorial
+  - goodjob
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GamePlay
+    uniqueID: 1647717255
+    locked: 0
+  - name: GamePlay2
+    uniqueID: 3348745795
+    locked: 0
+  - name: GamePlay3
+    uniqueID: 1553297217
+    locked: 0
+  - name: GamePlay4
+    uniqueID: 3811349739
+    locked: 0
+  - name: Tutorial
+    uniqueID: 752902527
+    locked: 0
+  - name: ComingSoon
+    uniqueID: 1639368815
+    locked: 0
