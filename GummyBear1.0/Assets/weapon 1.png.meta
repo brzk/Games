@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 6a33d8196d6f14ebea70dd67d4349545
+timeCreated: 1450542966
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: weapon 1_0
+    21300002: weapon 1_1
+    21300004: weapon 1_2
+    21300006: weapon 1_3
+    21300008: weapon 1_4
+    21300010: weapon 1_5
+    21300012: weapon 1_6
+    21300014: weapon 1_7
+    21300016: weapon 1_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: weapon 1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 101
+        width: 41
+        height: 36
+      alignment: 9
+      pivot: {x: .918526828, y: .0848484039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: weapon 1_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 95
+        width: 31
+        height: 39
+      alignment: 9
+      pivot: {x: .488095939, y: .0883967057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: weapon 1_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 100
+        width: 41
+        height: 34
+      alignment: 9
+      pivot: {x: .0859735981, y: .114695832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: weapon 1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 49
+        height: 31
+      alignment: 9
+      pivot: {x: .944334626, y: .523807883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: weapon 1_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 50
+        width: 52
+        height: 30
+      alignment: 9
+      pivot: {x: .0742034912, y: .475398511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: weapon 1_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 36
+        height: 33
+      alignment: 9
+      pivot: {x: .940778196, y: .947301447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: weapon 1_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: .5, y: .899775505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: weapon 1_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 3
+        width: 38
+        height: 32
+      alignment: 9
+      pivot: {x: .0698300377, y: .867336035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: weapon 1_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 41
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 6d4d977403c84814bb8e87f48b4498ea
+timeCreated: 1449823033
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gummy bear character 3_0
+    21300002: gummy bear character 3_1
+    21300004: gummy bear character 3_2
+    21300006: gummy bear character 3_3
+    21300008: gummy bear character 3_4
+    21300010: gummy bear character 3_5
+    21300012: gummy bear character 3_6
+    21300014: gummy bear character 3_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gummy bear character 3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 110
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gummy bear character 3_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 10
+        width: 88
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gummy bear character 3_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2
+        width: 92
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gummy bear character 3_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 10
+        width: 86
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gummy bear character 3_4
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 15
+        width: 106
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gummy bear character 3_5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 10
+        width: 86
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gummy bear character 3_6
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 0
+        width: 92
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gummy bear character 3_7
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 10
+        width: 87
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GummyBear1.0.Plugins", "GummyBear1.0.Plugins.csproj", "{9B7C4BC8-2DD3-A895-602F-D513FFD99C21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GummyBear1.0", "GummyBear1.0.csproj", "{9B119A23-0FE7-4AD3-D440-F5AABA82DC55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GummyBear1.0.Editor", "GummyBear1.0.Editor.csproj", "{0B5DD3B0-C1C7-0EFD-1F47-E7A59607DAED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B7C4BC8-2DD3-A895-602F-D513FFD99C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7C4BC8-2DD3-A895-602F-D513FFD99C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7C4BC8-2DD3-A895-602F-D513FFD99C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7C4BC8-2DD3-A895-602F-D513FFD99C21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B119A23-0FE7-4AD3-D440-F5AABA82DC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B119A23-0FE7-4AD3-D440-F5AABA82DC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B119A23-0FE7-4AD3-D440-F5AABA82DC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B119A23-0FE7-4AD3-D440-F5AABA82DC55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B5DD3B0-C1C7-0EFD-1F47-E7A59607DAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B5DD3B0-C1C7-0EFD-1F47-E7A59607DAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B5DD3B0-C1C7-0EFD-1F47-E7A59607DAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B5DD3B0-C1C7-0EFD-1F47-E7A59607DAED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

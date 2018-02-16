@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 3cfd8045c67a4413486b123442b2dd4c
+timeCreated: 1450791091
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BearDown_0
+    21300002: BearDown_1
+    21300004: BearDown_2
+    21300006: BearDown_3
+    21300008: BearDown_4
+    21300010: BearDown_5
+    21300012: BearDown_6
+    21300014: BearDown_7
+    21300016: BearDown_8
+    21300018: BearDown_9
+    21300020: BearDown_10
+    21300022: BearDown_11
+    21300024: BearDown_12
+    21300026: BearDown_13
+    21300028: BearDown_14
+    21300030: BearDown_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BearDown_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 115
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearDown_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 113
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearDown_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 6
+        width: 113
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearDown_3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 8
+        width: 113
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearDown_4
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 10
+        width: 113
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearDown_5
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 11
+        width: 113
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearDown_6
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 13
+        width: 113
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearDown_7
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 15
+        width: 113
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearDown_8
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 13
+        width: 113
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearDown_9
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 12
+        width: 113
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearDown_10
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 10
+        width: 113
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearDown_11
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 9
+        width: 113
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearDown_12
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 7
+        width: 113
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearDown_13
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 6
+        width: 113
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearDown_14
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4
+        width: 113
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearDown_15
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 2
+        width: 114
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

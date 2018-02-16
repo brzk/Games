@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameMaster.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SpecialEffectsHelper4.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\NewBehaviourScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SpecialEffectsHelper3.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PistolMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SwitchToLaserScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GunScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\moveBulletFt.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SpecialEffectsHelper5.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player.cs" Line="15" Column="29" />
+      <File FileName="Assets\Scripts\PistolScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\barScript.cs" Line="4" Column="1" />
+      <File FileName="Assets\Scripts\PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameMaster.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

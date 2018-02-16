@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: 8808e38c09958484fb1030f60b5fe13d
+timeCreated: 1450798107
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Machine_0
+    21300002: Machine_1
+    21300004: Machine_2
+    21300006: Machine_3
+    21300008: Machine_4
+    21300010: Machine_5
+    21300012: Machine_6
+    21300014: Machine_7
+    21300016: Machine_8
+    21300018: Machine_9
+    21300020: Machine_10
+    21300022: Machine_11
+    21300024: Machine_12
+    21300026: Machine_13
+    21300028: Machine_14
+    21300030: Machine_15
+    21300032: Machine_16
+    21300034: Machine_17
+    21300036: Machine_18
+    21300038: Machine_19
+    21300040: Machine_20
+    21300042: Machine_21
+    21300044: Machine_22
+    21300046: Machine_23
+    21300048: Machine_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Machine_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 10
+        width: 75
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 8
+        width: 75
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 8
+        width: 75
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_3
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 8
+        width: 75
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 7
+        width: 74
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_5
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 7
+        width: 74
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_6
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 5
+        width: 74
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_7
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 5
+        width: 74
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_8
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5
+        width: 74
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_9
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 4
+        width: 75
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_10
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 4
+        width: 75
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_11
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 2
+        width: 75
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_12
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 2
+        width: 74
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_13
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 2
+        width: 75
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_14
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 4
+        width: 75
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_15
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 4
+        width: 75
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_16
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 5
+        width: 74
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_17
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 5
+        width: 74
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_18
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 5
+        width: 74
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_19
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 7
+        width: 74
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_20
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 7
+        width: 74
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_21
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 8
+        width: 75
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_22
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 8
+        width: 75
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_23
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 8
+        width: 75
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machine_24
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 10
+        width: 75
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

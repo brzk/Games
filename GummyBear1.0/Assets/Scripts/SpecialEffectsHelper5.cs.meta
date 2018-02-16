@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 677d356c54484ae42898181140e0f415
+timeCreated: 1450979088
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pistolEffect: {fileID: 19817850, guid: c5e36336d37c994479919c0aa490a96f, type: 2}
+  - shotGunEffect: {fileID: 19850754, guid: 15ab24a71be33b248ad298183adb2aa1, type: 2}
+  - gunEffect: {fileID: 19879176, guid: 6aa224ccaf403644ba8bf39e29502d68, type: 2}
+  - laserEffect: {fileID: 19851430, guid: 212129a0e4445dd4b83372748032f68c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: f5e038b7166264a788a3217d853669be
+timeCreated: 1450899757
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BearTopRight_0
+    21300002: BearTopRight_1
+    21300004: BearTopRight_2
+    21300006: BearTopRight_3
+    21300008: BearTopRight_4
+    21300010: BearTopRight_5
+    21300012: BearTopRight_6
+    21300014: BearTopRight_7
+    21300016: BearTopRight_8
+    21300018: BearTopRight_9
+    21300020: BearTopRight_10
+    21300022: BearTopRight_11
+    21300024: BearTopRight_12
+    21300026: BearTopRight_13
+    21300028: BearTopRight_14
+    21300030: BearTopRight_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BearTopRight_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 23
+        width: 105
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearTopRight_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 20
+        width: 100
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearTopRight_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 19
+        width: 97
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearTopRight_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 19
+        width: 94
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearTopRight_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 19
+        width: 91
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearTopRight_5
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 17
+        width: 88
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearTopRight_6
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 18
+        width: 88
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearTopRight_7
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 20
+        width: 89
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearTopRight_8
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 20
+        width: 89
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearTopRight_9
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 18
+        width: 89
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearTopRight_10
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 18
+        width: 88
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearTopRight_11
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 18
+        width: 91
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearTopRight_12
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 19
+        width: 93
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearTopRight_13
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 20
+        width: 98
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearTopRight_14
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 22
+        width: 105
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BearTopRight_15
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 26
+        width: 110
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

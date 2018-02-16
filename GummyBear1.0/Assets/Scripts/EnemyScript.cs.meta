@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 244bb2078f64e8f4c9ed7483704bfdfe
+timeCreated: 1450725535
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Enemy1DeathTrans: {fileID: 436266, guid: 2d5a5ff6d856b4a4c9a7166fc8ddfcb0, type: 2}
+  - Enemy2DeathTrans: {fileID: 410934, guid: 461070535def7ff42a8b6fc59dfd93bb, type: 2}
+  - Enemy3DeathTrans: {fileID: 490470, guid: e983e7be89884854ebe952869968914b, type: 2}
+  - Enemy4DeathTrans: {fileID: 448242, guid: 30027cd0df528294692df9a2f3d6c714, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
